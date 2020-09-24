@@ -1,4 +1,4 @@
 # hello-world
-Hi There.  The is a test.
+Hi There.  This is a test.
 Thanks for visiting.
 
